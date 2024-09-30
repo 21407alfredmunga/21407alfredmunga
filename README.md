@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am currently learning about data science
+I am Alfred Munga, a computer science student at Kabarak University with a strong passion for coding, football, and poetry. I'm on a journey to become a machine learning engineer, data scientist, and software engineer. I have technical skills in Python, SQL, machine learning, data analytics, and data visualization using tools like Matplotlib, Seaborn, and Plotly. I also have a solid foundation in statistical analysis, probability, and calculus.
+
+I'm always eager to learn and take on new challenges, whether it's preparing for data structure exams, diving into web application development, or building a mobile app in Kotlin. One of my notable projects involved assessing air quality in African cities, where I learned the importance of data storytelling. Currently, I'm expanding my knowledge by studying HL7 and FHIR standards. I'm driven by my curiosity and a desire to keep growing in the tech field.
 
 
 # 💻 Tech Stack:
